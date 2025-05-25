@@ -5,3 +5,4 @@ Learning JS from scratch
 2. datatypes.js<br>
 3. operator.js<br>
 4. Conditional_Statement.js<br>
+5. alert_and_prompt.js<br>
