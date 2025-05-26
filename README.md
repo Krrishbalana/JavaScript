@@ -7,3 +7,4 @@ Learning JS from scratch
 4. Conditional_Statement.js<br>
 5. alert_and_prompt.js<br>
 6.loops.js<bs>
+7.for_of_loop.js<br>
