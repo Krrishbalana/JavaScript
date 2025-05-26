@@ -6,3 +6,4 @@ Learning JS from scratch
 3. operator.js<br>
 4. Conditional_Statement.js<br>
 5. alert_and_prompt.js<br>
+6.loops.js<bs>
