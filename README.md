@@ -13,7 +13,8 @@ Here’s my journey of learning JavaScript step-by-step with hands-on practice f
 7. 🌀 `for_of_loop.js` – Iterating through arrays and strings using `for...of`
 8. 🧭 `for_in_loop.js` – Iterating through objects using `for...in`
 9. 🔤 `string.js` – Exploring string methods, properties, and manipulations
-
+10. 📝 **Note:** Soon, I’ll be uploading a PDF 📄 of my handwritten notes. You can refer to that for a deeper understanding.  
+    ⏳ *If time allows, I’ll try to provide complete code explanations similar to the above files.*
 
 ---
 
